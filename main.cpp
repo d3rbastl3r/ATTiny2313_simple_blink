@@ -5,7 +5,7 @@
  * @since 30.09.2018
  */
 
-#define F_CPU 8000000
+#define F_CPU 8000000UL
 
 #include <util/delay.h>
 #include <avr/io.h>
